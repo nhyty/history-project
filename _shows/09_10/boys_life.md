@@ -45,6 +45,10 @@ crew:
   - role: Costumes
     name: Gabriella DeMatteis
 
+assets:
+  - type: poster
+    image: boys_life_2009-10.jpg
+
 published: true
 ---
 
